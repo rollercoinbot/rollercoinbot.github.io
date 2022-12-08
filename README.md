@@ -13,3 +13,5 @@ Download the RollerCoin_Bot.zip with the button below and start the “RollerBot
 - 2048
 - CoinFlip
 - CoinClick
+
+![RollerCoin Bot](https://github.com/rollercoinbot/rollercoinbot.github.io/blob/main/rollercoin_bot_windows.jpg?raw=true)
