@@ -1,3 +1,6 @@
+<link rel="shortcut icon" type="image/png" 
+      href="{{ "https://github.com/rollercoinbot/rollercoinbot.github.io/blob/main/icon_hamster.png?raw=true"  | absolute_url }}">
+
 # RollerCoin bot
 
 RollerCoin  is the latest innovation in cryptocurrency mining, allowing users to mine virtual coins without the need for expensive hardware. The RollerCoin bot takes advantage of idle computer resources to mine coins with minimal user input and energy consumption. It works by connecting multiple computers together, allowing them to join forces in order to generate more coins faster than any solo miner could achieve.
